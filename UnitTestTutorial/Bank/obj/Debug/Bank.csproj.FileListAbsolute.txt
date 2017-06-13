@@ -1,0 +1,5 @@
+C:\Users\Brien\Documents\Visual Studio 2017\Projects\UnitTestTutorial\Bank\bin\Debug\Bank.dll
+C:\Users\Brien\Documents\Visual Studio 2017\Projects\UnitTestTutorial\Bank\bin\Debug\Bank.pdb
+C:\Users\Brien\Documents\Visual Studio 2017\Projects\UnitTestTutorial\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\Brien\Documents\Visual Studio 2017\Projects\UnitTestTutorial\Bank\obj\Debug\Bank.dll
+C:\Users\Brien\Documents\Visual Studio 2017\Projects\UnitTestTutorial\Bank\obj\Debug\Bank.pdb

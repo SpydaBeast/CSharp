@@ -1,0 +1,14 @@
+C:\Users\Brien\Documents\Visual Studio 2017\Projects\UnitTestTutorial\BsnkTest\obj\Debug\BankTest.csprojResolveAssemblyReference.cache
+C:\Users\Brien\Documents\Visual Studio 2017\Projects\UnitTestTutorial\BsnkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Brien\Documents\Visual Studio 2017\Projects\UnitTestTutorial\BsnkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Brien\Documents\Visual Studio 2017\Projects\UnitTestTutorial\BsnkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Brien\Documents\Visual Studio 2017\Projects\UnitTestTutorial\BsnkTest\bin\Debug\BsnkTest.dll
+C:\Users\Brien\Documents\Visual Studio 2017\Projects\UnitTestTutorial\BsnkTest\bin\Debug\BsnkTest.pdb
+C:\Users\Brien\Documents\Visual Studio 2017\Projects\UnitTestTutorial\BsnkTest\bin\Debug\Bank.dll
+C:\Users\Brien\Documents\Visual Studio 2017\Projects\UnitTestTutorial\BsnkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Brien\Documents\Visual Studio 2017\Projects\UnitTestTutorial\BsnkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Brien\Documents\Visual Studio 2017\Projects\UnitTestTutorial\BsnkTest\bin\Debug\Bank.pdb
+C:\Users\Brien\Documents\Visual Studio 2017\Projects\UnitTestTutorial\BsnkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Brien\Documents\Visual Studio 2017\Projects\UnitTestTutorial\BsnkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Brien\Documents\Visual Studio 2017\Projects\UnitTestTutorial\BsnkTest\obj\Debug\BsnkTest.dll
+C:\Users\Brien\Documents\Visual Studio 2017\Projects\UnitTestTutorial\BsnkTest\obj\Debug\BsnkTest.pdb
